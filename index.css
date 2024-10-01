@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('Close\ up.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #f80909;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.watch-container {
+    background-color: #2813e9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#digital-watch {
+    font-size: 60px;
+    letter-spacing: 2px;
+}
